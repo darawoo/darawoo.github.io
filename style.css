@@ -1,0 +1,70 @@
+h1, h2
+{
+  font-weight: lighter;
+  margin: 0;
+}
+
+h2
+{
+  color: black;
+}
+
+.title-header
+{
+  color: white;
+  font-size: 70px;
+  text-weight: bold;
+}
+
+#profile-picture
+{
+  border-radius: 50%;
+  position: absolute;
+  top: 7%;
+  left: 50%;
+  margin-left: -50px;
+}
+
+nav{
+  border-bottom: 1px solid black;
+  background: black;
+  color: #e91e45;
+  margin: 10px;
+  padding: 5px;
+}
+
+nav a
+{
+  text-decoration: none;
+  color: white;
+}
+
+a:hover
+{
+  color: #e91e45;
+}
+
+body
+{
+  background: gray;
+  font-family: Roboto, Helvetica, sans-serif;
+  color: white;
+  border: 10px solid #e91e45;
+  margin: 0px;
+  padding: 10px;
+}
+
+section
+{
+  background: pink;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  <!-- box-shadow: 0 2px 4px black;>
+}
+
+#friendPics
+{
+  margin-left: 15px;
+}
